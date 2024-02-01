@@ -1,5 +1,5 @@
 <h1 align="center">Hi visitor 👽 I'm Elisabetta</h1>
-<h3 align="center">A passionate backend developer from Mars (but living in Italy)</h3>
+<h3 align="center">A passionate backend developer from Mars (but living in Rome)</h3>
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
