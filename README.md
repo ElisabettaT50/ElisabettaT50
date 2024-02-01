@@ -4,18 +4,21 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
 - 🔭 I’m currently working on [a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)
 
-- 🌱 I’m currently learning **Java Advanced, SQL and much more 😎**
+- 🌱 I’m currently learning **Java Advanced, SQL and much more 😎**  (but also how to flex README on this profile) 
 
-- 👯 I’m looking to collaborate on **every exciting project**
+- 👀 I want to learn **Python** 🐍
 
-- 💬 Ask me about **Java**
+- 👯 I’m looking to collaborate on **weird ideas that might be helpful I guess**
+
+- 💬 Ask me about **ask me why coding while listening to punk music is a bad idea**
 
 - 📫 How to reach me **tacconellielisabetta50@gmail.com**
 
-- ⚡ Fun fact **they say I'm the creative one**
+- ⚡ Fun fact **they say I look serious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
