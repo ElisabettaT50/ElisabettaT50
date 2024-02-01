@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **tacconellielisabetta50@gmail.com**
 
-- ⚡ Fun fact **they say I look serious**
+- ⚡ Fun fact **they say I look serious**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
