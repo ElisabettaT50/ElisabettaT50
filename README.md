@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **weird ideas that might be helpful I guess**
 
-- 💬 Ask me about **ask me why coding while listening to punk music is a bad idea**
+- 💬 Ask me about **why coding while listening to punk music is a bad idea**
 
 - 📫 How to reach me **tacconellielisabetta50@gmail.com**
 
