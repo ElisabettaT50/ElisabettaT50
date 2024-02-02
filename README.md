@@ -1,10 +1,12 @@
 <h1 align="center">Hi visitor 👽 I'm Elisabetta</h1>
-<h3 align="center">A passionate back-end developer from Mars (but living in Rome)</h3>
+<h3 align="center">A very passionate back-end developer from Mars (but living in Rome)</h3>
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
+
+- **30 years old**
 
 - 🔭 I’m currently working on **[a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)**
 
@@ -20,11 +22,9 @@
 
 - ⚡ Fun fact **they say I look serious**
 
-<div>
-  <p>
-    🇫🇷 
-  </p>
-  <div/>
+- **you can speak to me in French, English, Italian (but i prefer Martian)**
+
+- 🏳️‍🌈 ✊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
