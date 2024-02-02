@@ -6,7 +6,7 @@
 </div>
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
-- 🔭 I’m currently working on [a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)
+- 🔭 I’m currently working on **[a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)**
 
 - 🌱 I’m currently learning **Java Advanced, SQL and much more 😎**  (but also how to flex README on this profile) 
 
@@ -18,7 +18,9 @@
 
 - 📫 How to reach me **tacconellielisabetta50@gmail.com**
 
-- ⚡ Fun fact **they say I look serious**  
+- ⚡ Fun fact **they say I look serious**
+
+- 🏳️‍🌈 **it's my first language but I also speak 🇫🇷 and 🇬🇧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
