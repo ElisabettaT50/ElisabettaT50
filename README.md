@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **they say I look serious**
 
-- **you can speak to me in French, English, Italian (but i prefer Martian)**
+- **you can speak to me in French, English, Italian (but I prefer Martian)**
 
 - 🏳️‍🌈 ✊
 
