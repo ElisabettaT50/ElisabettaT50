@@ -5,7 +5,7 @@
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 </div>
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
-<iframe src="https://gifer.com/embed/M1q1" width=480 height=475.200 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a>
+
 - ☀️ **30 years old**
 
 - 🔭 I’m currently working on **[a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)**
