@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)**
 
-- 🌱 I’m currently learning **Java Advanced, SQL and much more 😎**  (but also how to flex README on this profile) 
+- 🌱 I’m currently learning **Java, SQL and much more 😎**  (but also how to flex README on this profile) 
 
 - 👀 I want to learn **Python** 🐍
 
