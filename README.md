@@ -20,7 +20,11 @@
 
 - ⚡ Fun fact **they say I look serious**
 
-- 🏳️‍🌈 **it's my first language but I also speak 🇫🇷 and 🇬🇧**
+<div>
+  <p>
+    🇫🇷 
+  </p>
+  <div/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
