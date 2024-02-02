@@ -6,7 +6,7 @@
 </div>
 <img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
 
-- **30 years old**
+- ☀️ **30 years old**
 
 - 🔭 I’m currently working on **[a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)**
 
