@@ -25,7 +25,6 @@
 
 - **you can speak to me in French, English, Italian (but I prefer Martian)**
 
-- 🏳️‍🌈 ✊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
