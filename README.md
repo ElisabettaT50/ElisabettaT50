@@ -9,7 +9,7 @@
 
 - ☀️ **30 years old**
 
-- 🔭 I’m currently working on **[a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)**
+- 🔭 I’m currently working on **[a restaurant manager application](https://github.com/anamariaow/RistoranteTeam2Java19.git)** and a **dating app** 👀
 
 - 🌱 I’m currently learning **Java, SQL and much more 😎**  (but also how to flex README on this profile) 
 
